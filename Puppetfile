@@ -6,5 +6,5 @@ mod 'theurbanpenguin/puppet_vim'
 
 mod 'puppetlabs/git'
 
-mod 'puppet-test',
+mod 'puppet_test',
   :git => 'https://github.com/robsongomes/puppet_test.git'
