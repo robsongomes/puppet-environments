@@ -3,4 +3,5 @@ node default {
   include puppet_vim
   include git
   include puppet_test
+  include puppet_ntp
 }
